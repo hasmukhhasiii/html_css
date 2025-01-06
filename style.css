@@ -1,0 +1,56 @@
+.contentbox{
+
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+
+#content{
+    height: 750px;
+}
+
+#footer{
+    background-color: #0f1111;
+    height: 100px;
+}
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+    margin-right: 150px;
+}
+
+#acc{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#myc{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#con{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+*{
+    color: white;
+    text-decoration: none;
+}
+
+#button{
+    background-color: #f08804;
+    
+}
+
+#search{
+    margin-left: 150px;
+}

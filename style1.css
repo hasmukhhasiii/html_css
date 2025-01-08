@@ -1,0 +1,30 @@
+#loader{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid aquamarine;
+    border-top: 10px solid black;
+    animation: myani 3s linear 0s infinite normal;
+    position: relative;
+    
+    
+   
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    position:relative;
+    top:300px;
+}
+
+
+
+@keyframes myani{
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
